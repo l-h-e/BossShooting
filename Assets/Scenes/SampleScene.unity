@@ -233,6 +233,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _Player: {fileID: 5585931280544264121, guid: 5c97280d1361d1f419cca8784b1a5f8b, type: 3}
+  _Boss: {fileID: 8893976127876746803, guid: eb9db7f482277c04c8de22666185c291, type: 3}
 --- !u!4 &1123624897
 Transform:
   m_ObjectHideFlags: 0

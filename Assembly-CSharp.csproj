@@ -62,9 +62,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\BossController.cs" />
     <Compile Include="Assets\Scripts\GameController.cs" />
     <Compile Include="Assets\Scripts\PlayerBulletController.cs" />
     <Compile Include="Assets\Scripts\PlayerControllre.cs" />
+    <Compile Include="Assets\Scripts\PlayerLaserController.cs" />
     <None Include="Assets\stg_basic_pics\document_and_picturelist\readme.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Unity/BossShooting/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
